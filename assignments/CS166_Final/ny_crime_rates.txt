@@ -1,0 +1,47 @@
+Inwood, 639
+Fort George, 639
+Washington Heights, 389.5
+Hamilton Heights, 389.5
+Harlem, 2745
+Morningside Heights, 657
+East Harlem, 1034
+Upper West Side, 1017
+Lincoln Square, 900
+Central Park, 69
+Upper East Side, 757.66
+Yorkville, 757.66
+Lenox Hill, 757.66
+Roosevelt Island, 1698
+Clinton, 1211.5
+Theater District, 1276
+Midtown, 2487.5
+Turtle Bay, 223.2
+Sutton, 223.2
+Beekman, 223.2
+Tudor, 223.2
+Medical City, 402.8
+Stuyvesant, 402.8
+Gramercy Park, 402.8
+Kips Bay, 402.8
+Murray Hill, 223.2
+Midtown South, 402.8
+Garment District, 384.33
+Chelsea, 384.33
+Hell's Kitchen, 384.33
+Meat Packing Dist., 306.8
+West Village, 306.8
+Greenwich Village, 306.8
+NoHo, 306.8
+East Village, 617
+ABC City, 617
+SoHo, 306.8
+Little Italy, 195.2 
+Bowery, 195.2
+Lower East Side, 962
+Chinatown, 195.2
+Civic Center, 195.2
+Two Bridges, 195.2
+Wall Street, 346.5
+Southern Tip, 346.5
+White Hall, 346.5
+Tribeca, 346.5

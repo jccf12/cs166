@@ -1,0 +1,96 @@
+Inwood, Fort George
+Fort George, Washington Heights
+Washington Heights, Hamilton Heights
+Hamilton Heights, Harlem
+Harlem, Morningside Heights
+Harlem, East Harlem
+Harlem, Central Park
+Morningside Heights, Upper West Side
+East Harlem, Central Park
+East Harlem, Upper East Side
+East Harlem, Yorkville
+Upper West Side, Central Park
+Upper West Side, Lincoln Square
+Lincoln Square, Central Park
+Lincoln Square, Clinton
+Lincoln Square, Midtown
+Central Park, Midtown
+Central Park, Lenox Hill
+Central Park, Upper East Side
+Upper East Side, Yorkville
+Upper East Side, Lenox Hill
+Upper East Side, Roosevelt Island
+Lenox Hill, Midtown
+Lenox Hill, Roosevelt Island
+Lenox Hill, Turtle Bay
+Lenox Hill, Sutton
+Roosevelt Island, Beekman
+Clinton, Midtown
+Clinton, Hell's Kitchen
+Theater District, Midtown
+Theater District, Hell's Kitchen
+Theater District, Garment District
+Midtown, Garment District
+Midtown, Turtle Bay
+Midtown, Murray Hill
+Midtown, Midtown South
+Turtle Bay, Murray Hill
+Turtle Bay, Sutton
+Turtle Bay, Beekman
+Sutton, Beekman
+Beekman, Murray Hill
+Beekman, Tudor
+Tudor, Murray Hill
+Tudor, Medical City
+Medical City, Kips Bay
+Medical City, Stuyvesant
+Stuyvesant, Gramercy Park
+Stuyvesant, East Village
+Stuyvesant, ABC City
+Gramercy Park, Kips Bay
+Gramercy Park, Midtown South
+Gramercy Park, East Village
+Kips Bay, Murray Hill
+Kips Bay, Midtown South
+Midtown South, Garment District
+Midtown South, Chelsea
+Midtown South, Greenwich Village
+Garment District, Hell's Kitchen
+Garment District, Chelsea
+Chelsea, Hell's Kitchen
+Chelsea, Meat Packing Dist.
+Chelsea, West Village
+Chelsea, Greenwich Village
+Meat Packing Dist., West Village
+West Village, Greenwich Village
+West Village, SoHo
+Greenwich Village, NoHo
+Greenwich Village, SoHo
+NoHo, SoHo
+NoHo, East Village
+NoHo, Little Italy
+East Village, Little Italy
+East Village, ABC City
+East Village, Bowery
+East Village, Lower East Side
+ABC City, Lower East Side
+SoHo, Little Italy
+SoHo, Tribeca
+SoHo, Chinatown
+Little Italy, Chinatown
+Little Italy, Bowery
+Bowery, Lower East Side
+Bowery, Two Bridges
+Lower East Side, Two Bridges
+Chinatown, Civic Center
+Chinatown, Two Bridges
+Chinatown, Tribeca
+Civic Center, Tribeca
+Civic Center, White Hall
+Civic Center, Wall Street
+Civic Center, Two Bridges
+Two Bridges, Wall Street
+Wall Street, Southern Tip
+Wall Street, White Hall
+Southern Tip, White Hall
+White Hall, Tribeca
